@@ -9,6 +9,7 @@ int numero2 = entrada.nextInt();
 
 for(int i=numero1+1;i<numero2;i++){
     System.out.println(i);
+    entrada.close();
   }
  }
 }
