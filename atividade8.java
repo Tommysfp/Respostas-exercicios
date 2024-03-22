@@ -14,5 +14,6 @@ double media = soma/5;
 System.out.println("Soma:"+ soma);
 System.err.println("Media:"+media);
 
+        entrada.close();
     }
 }
