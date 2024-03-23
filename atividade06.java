@@ -1,4 +1,4 @@
-public class atividade6 {
+public class atividade06 {
     public static void main(String[] args){
 
 System.out.println("Numeros de 1 a 20 um ao lado do outro:");
