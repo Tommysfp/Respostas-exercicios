@@ -1,5 +1,5 @@
 
-public class atividade4 {
+public class atividade04 {
     public static void main (String[] args){
 double paisA = 80000;
 double paisB = 200000;
