@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class atividade8 {
+public class atividade08 {
     public static void main(String[] args) {
 Scanner entrada = new Scanner(System.in);
 int soma = 0;
