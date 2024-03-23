@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
- public class atividade { 
+ public class atividade01 { 
 
    public static void main(String[] args) { 
     Scanner entrada = new Scanner(System.in);
